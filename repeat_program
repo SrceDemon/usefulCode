@@ -1,4 +1,4 @@
 while True:
-    main()
+    main() #can be changed to any function name
     if input("play again? (Y/N)").strip().upper() != 'Y':
         break
