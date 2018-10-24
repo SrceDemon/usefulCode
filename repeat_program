@@ -1,0 +1,4 @@
+while True:
+    main()
+    if input("play again? (Y/N)").strip().upper() != 'Y':
+        break
